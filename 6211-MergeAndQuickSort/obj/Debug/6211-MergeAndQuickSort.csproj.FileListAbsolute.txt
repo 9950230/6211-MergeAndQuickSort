@@ -1,0 +1,7 @@
+C:\Users\9950230\source\repos\6211-MergeAndQuickSort\6211-MergeAndQuickSort\obj\Debug\6211-MergeAndQuickSort.csprojAssemblyReference.cache
+C:\Users\9950230\source\repos\6211-MergeAndQuickSort\6211-MergeAndQuickSort\obj\Debug\6211-MergeAndQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\6211-MergeAndQuickSort\6211-MergeAndQuickSort\bin\Debug\6211-MergeAndQuickSort.exe.config
+C:\Users\9950230\source\repos\6211-MergeAndQuickSort\6211-MergeAndQuickSort\bin\Debug\6211-MergeAndQuickSort.exe
+C:\Users\9950230\source\repos\6211-MergeAndQuickSort\6211-MergeAndQuickSort\bin\Debug\6211-MergeAndQuickSort.pdb
+C:\Users\9950230\source\repos\6211-MergeAndQuickSort\6211-MergeAndQuickSort\obj\Debug\6211-MergeAndQuickSort.exe
+C:\Users\9950230\source\repos\6211-MergeAndQuickSort\6211-MergeAndQuickSort\obj\Debug\6211-MergeAndQuickSort.pdb
